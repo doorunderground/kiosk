@@ -22,11 +22,11 @@ The ultrasonic sensor connected to a Raspberry Pi, the kiosk measures the distan
 
 ## Code Implementation
 -
-<img width="550" alt="스크린샷 2023-11-22 오후 11 25 33" src="https://github.com/doorunderground/kiosk/assets/147718826/dea0e7e2-dba0-4f26-814a-e39ca4c21af6">
+<img width="600" alt="스크린샷 2023-11-22 오후 11 25 33" src="https://github.com/doorunderground/kiosk/assets/147718826/dea0e7e2-dba0-4f26-814a-e39ca4c21af6">
 
-<img width="550" alt="스크린샷 2023-11-22 오후 11 29 43" src="https://github.com/doorunderground/kiosk/assets/147718826/3e56f2ff-2bc9-43a4-b8fd-1da874154bf4">
+<img width="600" alt="스크린샷 2023-11-22 오후 11 29 43" src="https://github.com/doorunderground/kiosk/assets/147718826/3e56f2ff-2bc9-43a4-b8fd-1da874154bf4">
 
-<img width="550" alt="스크린샷 2023-11-22 오후 11 29 14" src="https://github.com/doorunderground/kiosk/assets/147718826/eb3400fe-0b5c-43a8-a013-8d6778589841">
+<img width="600" alt="스크린샷 2023-11-22 오후 11 29 14" src="https://github.com/doorunderground/kiosk/assets/147718826/eb3400fe-0b5c-43a8-a013-8d6778589841">
 
 
 
