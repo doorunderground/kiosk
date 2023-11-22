@@ -1,4 +1,4 @@
-# kisok 
+# kisok - AI Age Estimation Kiosk
 2023.06
 kisok - AI Age Estimation Kiosk
 
